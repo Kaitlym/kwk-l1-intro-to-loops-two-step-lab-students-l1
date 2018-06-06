@@ -52,3 +52,4 @@ puts "kick"
 moves_slay = moves_slay+1
 end
 end
+dance
