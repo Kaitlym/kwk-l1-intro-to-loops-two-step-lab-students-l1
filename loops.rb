@@ -35,12 +35,10 @@
 # kwk_camp(10)
 def dance 
 moves_slay = 0
-while moves_slay != 10
-puts "step to the left"
-puts "step to the right"
-puts "kick"
-moves_slay = moves_slay+1
+  while moves_slay != 10
+  puts "step to the left"
+  puts "step to the right"
+  puts "kick"
+  moves_slay = moves_slay+1
 end
 dance
-
-  
