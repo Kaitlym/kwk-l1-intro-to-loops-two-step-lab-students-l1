@@ -45,7 +45,7 @@
 # dance
 def dance 
   moves_slay = 0
-  until move_slay == 10
+  until moves_slay == 10
     puts "step to the left"
     puts "step to the right"
     puts "kick"
