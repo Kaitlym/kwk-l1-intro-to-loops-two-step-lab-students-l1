@@ -40,5 +40,6 @@ moves_slay = 0
   puts "step to the right"
   puts "kick"
   moves_slay = moves_slay+1
+  end
 end
 dance
