@@ -44,12 +44,12 @@
 # end
 # dance
 def dance 
-moves_slay = 0
-until move_slay == 10
-puts "step to the left"
-puts "step to the right"
-puts "kick"
-moves_slay = moves_slay+1
-end
+  moves_slay = 0
+  until move_slay == 10
+  puts "step to the left"
+  puts "step to the right"
+  puts "kick"
+  moves_slay = moves_slay+1
+  end
 end
 dance
